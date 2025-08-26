@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.codeflix.admin.video.catalog'
+group = 'com.codeflix.admin.video.catalog.domain'
 version = '1.0-SNAPSHOT'
 
 repositories {
